@@ -52,7 +52,7 @@ public class brokenLink_HRYtutuorials {
 		}
 
 		driver.quit();
-
+		// strat for each loop
 		for (String brokenLinkUrl : brokenlinkUrls) {
 			System.err.println(brokenLinkUrl);
 		}
